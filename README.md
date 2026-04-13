@@ -1,17 +1,17 @@
 # Uber_Ride_Analysis_using_Power_BI
 
-**📊 One-Line Summary**
+### **📊 One-Line Summary**
 
 A Power BI dashboard project analyzing 150K Uber rides to uncover insights on revenue, customer behavior, cancellations, and operational performance.
 
 
-**📖 Overview**
+### **📖 Overview**
 
 This project focuses on analyzing Uber ride data to understand business performance, customer behavior, and operational challenges.
 Using Power BI, I built an interactive dashboard that provides insights into bookings, revenue, cancellations, locations, and time-based trends.
 
 
-**❗ Problem Statement**
+### **❗ Problem Statement**
 
 Uber faces multiple business challenges such as:
 
@@ -29,7 +29,7 @@ Underperformance of premium vehicle categories
 This project aims to identify these issues and provide data-driven insights for better decision-making.
 
 
-**📂 Dataset**
+### **📂 Dataset**
 
 Total Records: 150,000 bookings
 
@@ -49,7 +49,8 @@ Customer & Driver Ratings
 
 Date & Time
 
-**🛠️ Tools and Technologies**
+
+### **🛠️ Tools and Technologies**
 
 Power BI – Dashboard creation & visualization
 
@@ -59,7 +60,8 @@ DAX (Data Analysis Expressions) – KPIs & calculations
 
 Excel / CSV – Data source
 
-**⚙️ Methods**
+
+### **⚙️ Methods**
 
 Data Cleaning (handling null values, formatting)
 
@@ -73,7 +75,8 @@ Visual storytelling using charts, slicers, and filters
 
 Anomaly detection for trend analysis
 
-**🔍 Key Insights**
+
+### **🔍 Key Insights**
 
 62% rides completed, while 38% lost bookings
 
@@ -91,7 +94,8 @@ Top drop location: Ashram
 
 UPI & Cash are the most preferred payment methods
 
-**📊 Dashboard / Output**
+
+### **📊 Dashboard / Output**
 
 The dashboard includes multiple pages:
 
@@ -118,7 +122,7 @@ Time period
 Location
 
 
-**▶️ How to Run this Project**
+### **▶️ How to Run this Project**
 
 Download the .pbix file from this repository
 
@@ -129,7 +133,7 @@ Refresh the dataset (if required)
 Explore the dashboard using filters and slicers
 
 
-**📈 Result & Conclusion**
+### **📈 Result & Conclusion**
 
 This project highlights major areas of improvement for Uber:
 
@@ -147,10 +151,10 @@ Improve address accuracy and customer experience
 Overall, this dashboard helps in making data-driven business decisions.
 
 
-**👤 Author & Contact**
+### **👤 Author & Contact**
 
 
 **Rohit Namdev Shinde**
 
-**📧 Email:**rohitnshinde1998@gmail.com
+📧 Email:rohitnshinde1998@gmail.com
 

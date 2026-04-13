@@ -124,7 +124,7 @@ Location
 
 ### **▶️ How to Run this Project**
 
-Download the .pbix file from this repository
+Download the Uber_PowerBI_Dashboard.pbix file from this repository
 
 Open it using Power BI Desktop
 
